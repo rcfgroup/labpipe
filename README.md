@@ -1,6 +1,6 @@
 # LabPipe
 
-LabPipe is a tool that was created to streamline data handling, by supporting semi-automated sample data collection, linkage and transfer; collection/data entry of biomedical meta-data linked to the samples; and sample collection notifications.
+LabPipe is a tool that was created to streamline data handling, by supporting semi-automated sample data collection, linkage and transfer; collection/data entry of biomedical meta-data linked to the samples; and sample collection notifications. Initially it is focussed on metabolomics, in particular breath sample data.
 
 It consists of two components, LPclient and LPserver. Information on setting up these components is provided on their individual GitHub repositories:
 
