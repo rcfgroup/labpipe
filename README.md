@@ -8,3 +8,5 @@ It consists of two components, LPclient and LPserver. Information on setting up 
 * [**LPserver**](https://github.com/rcfgroup/labpipe-server-public)
  
 Both the LPclient and LPserver tools are available to download under a non-commercial open-source licence (NPOSL 3.0).
+
+Full documentations can be found at [docs.labpipe.org](https://docs.labpipe.org/)
