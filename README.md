@@ -9,4 +9,4 @@ It consists of two components, LPclient and LPserver. Information on setting up 
  
 Both the LPclient and LPserver tools are available to download under a non-commercial open-source licence (NPOSL 3.0).
 
-A guide to getting started using LabPipe can be found at docs.labpipe.org/quick-start](https://docs.labpipe.org/quick-start)
+A guide to getting started using LabPipe can be found at [docs.labpipe.org/quick-start](https://docs.labpipe.org/quick-start)
