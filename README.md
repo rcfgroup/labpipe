@@ -5,7 +5,7 @@ LabPipe is a toolkit that was created to streamline data handling, by supporting
 It consists of two components, LabPipe Client (LPC) and LabPipe Server (LPS). Information on setting up these components is provided on their individual GitHub repositories:
 
 * [**LPC**](https://github.com/rcfgroup/labpipe-client-public)
-* [**LPserver**](https://github.com/rcfgroup/labpipe-server-public)
+* [**LPS**](https://github.com/rcfgroup/labpipe-server-public)
  
 Both the LPclient and LPserver tools are available to download under the GNU General Public License (GPL-3.0).
 
